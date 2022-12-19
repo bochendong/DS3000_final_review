@@ -1,4 +1,29 @@
-- [\* Linear Model](https://github.com/bochendong/DS3000_final_review/tree/main/Linear%20Model)
-- [\* Likelihood](https://github.com/bochendong/DS3000_final_review/tree/main/Likelihood)
-- [\* Logistic Regression](https://github.com/bochendong/DS3000_final_review/tree/main/Logistic%20Regression)
-- [\* Other](https://github.com/bochendong/DS3000_final_review/tree/main/Other)
+- [Linear Model](https://github.com/bochendong/DS3000_final_review/tree/main/Linear%20Model)
+  - LAD and RSS
+  - Regularization
+    - L1 (Lasso)
+    - L2 (Ridge)
+  - Muti Varibale Linear regression
+- [Likelihood](https://github.com/bochendong/DS3000_final_review/tree/main/Likelihood)
+  - Bernoulli 
+  - Poisson
+  - Beta
+  - midterm model
+- [Logistic Regression](https://github.com/bochendong/DS3000_final_review/tree/main/Logistic%20Regression)
+- [Confidence and Boostrap]()
+  - Bootstrap on parameters
+  - Boostrap on fit
+  - Confidence interval 
+    - Normal Distribution
+    - Central limit theorem
+    - t-distribution
+- [Trees]()
+- [Dimension Reduction]()
+- [Cluster]
+- [Other](https://github.com/bochendong/DS3000_final_review/tree/main/Other)
+  - R2
+  - Performance
+  - ROC and AUC
+  - Threshold
+  - Class Balanced
+  - Learning Curve
