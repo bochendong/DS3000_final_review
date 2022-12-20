@@ -18,7 +18,8 @@
     - Central limit theorem
     - t-distribution
 - [Trees](https://github.com/bochendong/DS3000_final_review/tree/main/5.%20Trees)
-  - Decision Tree (Todo)
+  - Decision Tree
+  - Bagging Decision Trees
   - Random Forest
   - XGBoost
 - [Dimension Reduction](https://github.com/bochendong/DS3000_final_review/tree/main/6.%20Dimension%20Reduction)
@@ -28,7 +29,8 @@
   - UMap
 - [Cluster](https://github.com/bochendong/DS3000_final_review/tree/main/7.%20Cluster)
   - K-means
-  - Decision Boundary (Todo)
+  - Decision Boundary
+  - Silhouette Plot
 - [CNN (Optional)]()
 - [Other](https://github.com/bochendong/DS3000_final_review/tree/main/Other)
   - R2
@@ -41,3 +43,5 @@
   - Statistical Significance 
   - Data Convert
   - Pipe Line
+  - Grid Search (todo)
+  - Confusion matrix
